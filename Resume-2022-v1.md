@@ -8,27 +8,41 @@ A seasoned technology and project management professional with sound knowledge o
 
 # Experience
 
-**WM Universal Solutions Pvt. Ltd.** | *Digital Deputy Manager* | Jan 2015 - Present
+## **WM Universal Solutions Pvt. Ltd.**
+**Digital Deputy Manager** | *Jan 2015 - Present*
 
 - Elements & Modernization
 - NLG
 - Energy Star
+- Image Thumbnails
 - Service Channel
 - Greenleaf Mobile App
-- 
+- Hauler Integration
+- Codegen
+- Build and Deploy process (DevOps)
+  
 
-**Tata Consultancy Services**  | *IT Analyst* | Feb 2011 – Dec 2014
+## **Tata Consultancy Services Ltd.**
+**IT Analyst** | *Feb 2011 – Dec 2014*
 
-- National Commodities and Derivatives Exchange ([NCDEX](https://www.ncdex.com/index.aspx)) | Feb 2011 – Dec 2013
-  - Collarteral Management System
-  - NCFE Comtrack integration
-  - 
-- Westpac Corporation ([Westpac](https://www.westpac.com.au/)) – Feb 2014 – Dec 2014
-  - Business Banking Online
+- **National Commodities and Derivatives Exchange** ([NCDEX](https://www.ncdex.com)) | *Feb 2011 – Dec 2013*
+  - Designed and implemented integration of NCFE (NCDEX Clearing Front End) system with COMTRACK (Commodity Depository System) for physical settlement of commodities. Used files based instructions for various steps of the process like blocking and release of commodity lots based on reconciliation.
+  - Wrote a security system to manage sessions on a custom application for NCFE which
+  - Integrated with organizational CRM to align with Company Master data
+  - Led a team of developers to design and develop a web application to manage Collarteral margins for exchange member broking companies.
+  - Created and maintained a build deployment process
+- Westpac Corporation ([Westpac](https://www.westpac.com.au/)) | *Feb 2014 – Dec 2014*
+  - Designed and wrote a system to implement RSA SecurId for management of accounts and during transfers to secure trasactions on Business banking tools for Westpac's St George Bank, Bank of Melbourne and BankSA.
 
-**SUVI Information System (Diaspark Infotech)** | *Software Engineer L2* | Jul 2008 – Jan 2011
+## **Diaspark Infotech Pvt. Ltd.** (Earlier SUVI Information Systems)
+**Software Engineer L2** | *Jul 2008 – Jan 2011*
 
--
+Started my career at this company as Junior Software engineer, got promoted to Software Engineer L1 within a year and to L2 a year after that.
+
+- Worked on a windwos to web migration of agency management product for Sandata Inc. Worked against very tight deadlines developed high quality product.
+- Designed and implemented Data import process for Sandata Inc to receive agency/patient data from Medicare and Medicaid. Received Crown of the fortnight award for it.
+- Started as a junior engineer in a New York Times project. Being first on the project, created several prototypes to achieve requirements. Developed the system from scratch and integrated with Epsilen learning management platform.
+   
 
 # Highlights
 
@@ -114,38 +128,8 @@ A seasoned technology and project management professional with sound knowledge o
   - Working with the team to deliver the solutions as per the plan
   - Release Management using Team City &amp; Octopus
 
-#### **Business Banking Online (BBO)** | Westpac Banking Group | _Feb 2014 – Dec 2014_
 
-- BBO is Corporate Banking software for medium and small enterprises in Australia that provides its clients with various facilities to transfer money from one account to one or multiple accounts or billers.
-- **Technologies** – Classic ASP, ASP.NET MVC, C#, WCF, Knockout JS, SQL Server 2000, SQL Server 2008
-- **Responsibilities** –
-  - Leading an offshore team in the development of RSA implementation.
-  - Documentation, SIT, Code review, Release management.
 
-#### **NCDEX Clearing front end (NCFE)** | NCDEX | _Mar 2011 – Dec 2013_
-
-- National Commodities and Derivatives Exchange Ltd (NCDEX) allows futures trading on commodities. The clearing and settlement of the trades executed on the NCDEX platform NCFE such as financial clearing of payment flow, control of open interest, intention marking, allocation and physical or financial settlement. The project also involves interaction with applications developed by other partners like COMTRACK (Commodity Depository) and RMS (Risk Management System).
-- **Technologies** – ASP.NET, C#, HTML, Oracle 10g, XML, Web Services, WCF
-- **Responsibilities** –
-  - Leading a team in the design and development of various initiatives – Integration with COMTRACK for physical settlement of commodities, Integration with organizational CRM to aggregate master data and Collateral management system
-  - Documentation, SIT, Code review, Release management.
-
-#### **nHome 5.0** | Sandata Technologies LLC | _Aug 2009 – Nov 2010_
-
-- nHome, a system developed for home healthcare agency management. nHome captures and manages the Payors, Referral Sources, Staff, clinical records, and services provided. nHome offers complete Medicare episode tracking and management, handles the complex rules for Medicaid and uniqueness and customization needed for any insurance plan. Private duty is a snap with nHome&#39;s advanced document management system.
-- **Technologies** – ASP.NET, VB.NET, WCF, MS-SQL Server 2008
-- **Responsibilities** –
-  - Development of assigned modules and providing support.
-  - Documentation, SIT, Code review, Release management.
-  - End to end responsibility of Data transfer service.
-
-#### **New York Times Knowledge Repository** | New York Times | _Jul 2008 – Mar 2009_
-
-- New York Times Knowledge Repository provides a common search interface to provide search results from nytimes.com, CSIS and NYTKN Premade Templates to make the templates of desired articles. The primary goal of the application was to expose template API to espilen.com, but now it is a standalone application and exposes API to other applications also.
-- **Technologies** – ASP.NET, C#, Web Services, MS-SQL Server 2005
-- **Responsibilities** –
-  - Prototyping the UI based changing requirements
-  - Development, Documentation and Unit testing
 
 # Education
 
