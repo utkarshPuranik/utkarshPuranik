@@ -133,6 +133,11 @@ Started my career at this company as Junior Software engineer, got promoted to S
 
 # Education
 
-Bachelor of Engineering (Information Technology) | June 2008 | RGPV - MIT Ujjain
+## **Mahakal Institute of Technology, Ujjain** (RGPV)
+**Bachelor of Engineering (Information Technology)** | *September 2004 - June 2008*
+
+- Designed and implemented a system for managing point of sale (POS) at a store, managing inventory and transactions as major project for final semester.
+- Attended a training at Training Centre, IIT Roorkee for .NET and created a shopping cart software like Amazon, being the only team (2 developers) in out of 80 students who from all over India.
+- Wrote a system to manage a music shop, managing inventory of albums as a minor project.
 
 Page 1
