@@ -4,9 +4,9 @@
 
 A seasoned technology and project management professional with over a decade of experience in delivery quality software in diverse environmens.
 
-# Experience
+## Experience
 
-## WM Universal Solutions
+### WM Universal Solutions
 **Digital Deputy Manager** | *Jan 2020 - Present*
 
 - Elements & Modernization
@@ -30,7 +30,7 @@ A seasoned technology and project management professional with over a decade of 
 - Reporting CoE
 
 
-## Tata Consultancy Services
+### Tata Consultancy Services
 **IT Analyst** | *Feb 2011 – Dec 2014*
 
 - **National Commodities and Derivatives Exchange** ([NCDEX](https://www.ncdex.com)) | *Feb 2011 – Dec 2013*
@@ -42,7 +42,7 @@ A seasoned technology and project management professional with over a decade of 
 - Westpac Corporation ([Westpac](https://www.westpac.com.au/)) | *Feb 2014 – Dec 2014*
   - Designed and wrote a system to implement RSA SecurId for management of accounts and during transfers to secure trasactions on Business banking tools for Westpac's St George Bank, Bank of Melbourne and BankSA.
 
-## Diaspark Infotech (Earlier SUVI Information Systems)
+### Diaspark Infotech (Earlier SUVI Information Systems)
 **Software Engineer L2** | *Jul 2008 – Jan 2011*
 
 Started my career at this company as Junior Software engineer, got promoted to Software Engineer L1 within a year and to L2 a year after that.
@@ -53,7 +53,7 @@ Started my career at this company as Junior Software engineer, got promoted to S
 - Experimented with Silverlight as it was first released and wrote a music player which could play local songs or stream online music while maintaining a library.
    
 
-# Highlights
+## Highlights
 
 - Self-motivated **Software Engineer** / **Architect** / **Manager** with 14 years of experience in system design, development, analysis and implementation using Microsoft Technologies for Enterprise applications.
 - Can provide **Technical Leadership, Project Management, Software Design, Development** and **Ensure Delivery** which matches highest standards in terms of functionality along with quality 
@@ -70,8 +70,6 @@ Started my career at this company as Junior Software engineer, got promoted to S
 - Experienced in creating automated deployment solution for **Continuous Integration** (CI) using **Azure Pipelines** , **TeamCity** and **Octopus**.
 - Good knowledge of Improving Performance by Analysis of **Memory Leaks, Heap Space** and **Stack Space monitoring** and providing solutions to overcome Bottlenecks in Large scale Applications dealing with high data Volume and Throughput.
 
-# Skills &amp; Abilities
-
 ## Technology Stack
 
 |Set|Skills|
@@ -82,7 +80,7 @@ Started my career at this company as Junior Software engineer, got promoted to S
 | Databases | Azure SQL, MS SQL Server 2016/2012/2008, Azure Cosmos DB, Snowflake |
 | Toos | Git, TFS, SVN, Powershell |
 
-## Core Competencies
+## Skills
 ||||
 |-------|----------|---------|
 |Project Management|People Management|Agile Methodologies|
@@ -90,15 +88,15 @@ Started my career at this company as Junior Software engineer, got promoted to S
 |Software Design &amp; Analysis|Software Development Lifecycle|Enterprise Application Support|
 |Cross functional team leadership|Proven leadership and organizational abilities|Able to lead others in high-demand situations|
 
-# Certifications
+## Certifications
 
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Developer Associate
 
 
-# Education
+## Education
 
-## **Mahakal Institute of Technology, Ujjain** (RGPV)
+### **Mahakal Institute of Technology, Ujjain** (RGPV)
 **Bachelor of Engineering (Information Technology)** | *September 2004 - June 2008*
 
 - Designed and implemented a system for managing point of sale (POS) at a store, managing inventory and transactions as major project for final semester.
