@@ -1,7 +1,8 @@
-# ***Utkarsh Puranik*** 
+# **Utkarsh Puranik** 
 
 [utkarsh.puranik@outlook.com](mailto:utkarsh.puranik@outlook.com?subject=Regarding%20your%20resume)| 9644540540 | [Website](http://utkarshpuranik.com) | [LinkedIn Profile](https://in.linkedin.com/in/utkarshpuranik)
 
+## Summary
 A seasoned technology and project management professional with over a decade of experience in delivery quality software in diverse environmens.
 
 ## Experience
