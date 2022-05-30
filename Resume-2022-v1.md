@@ -2,26 +2,35 @@
 
 [utkarsh.puranik@outlook.com](mailto:utkarsh.puranik@outlook.com?subject=Regarding%20your%20resume)| 9644540540 | [Website](http://utkarshpuranik.com) | [LinkedIn Profile](https://in.linkedin.com/in/utkarshpuranik)
 
-
-A seasoned technology and project management professional with over a decade of experience in delivery quality software in diverse environmens. 
+A seasoned technology and project management professional with over a decade of experience in delivery quality software in diverse environmens.
 
 # Experience
 
-## **WM Universal Solutions Pvt. Ltd.**
-**Digital Deputy Manager** | *Jan 2015 - Present*
+## WM Universal Solutions
+**Digital Deputy Manager** | *Jan 2020 - Present*
 
 - Elements & Modernization
 - NLG
 - Energy Star
 - Image Thumbnails
-- Service Channel
+- Realigned team towards domain understanding
+
+**Principal Software Engineer** | *Jan 2015 - Dec 2019*
+
+- Service Channel 
 - Greenleaf Mobile App
 - Hauler Integration
+- Auto Reconciliation
 - Codegen
+- CPQ
+- Family Doller $25 mm contract precondition
+- Spec Gov
 - Build and Deploy process (DevOps)
 - Traveled to the onsite business location on **Business Visa (B1)** to **Windsor, Connecticut (CT), USA**
+- Reporting CoE
 
-## **Tata Consultancy Services Ltd.**
+
+## Tata Consultancy Services
 **IT Analyst** | *Feb 2011 – Dec 2014*
 
 - **National Commodities and Derivatives Exchange** ([NCDEX](https://www.ncdex.com)) | *Feb 2011 – Dec 2013*
@@ -33,7 +42,7 @@ A seasoned technology and project management professional with over a decade of 
 - Westpac Corporation ([Westpac](https://www.westpac.com.au/)) | *Feb 2014 – Dec 2014*
   - Designed and wrote a system to implement RSA SecurId for management of accounts and during transfers to secure trasactions on Business banking tools for Westpac's St George Bank, Bank of Melbourne and BankSA.
 
-## **Diaspark Infotech Pvt. Ltd.** (Earlier SUVI Information Systems)
+## Diaspark Infotech (Earlier SUVI Information Systems)
 **Software Engineer L2** | *Jul 2008 – Jan 2011*
 
 Started my career at this company as Junior Software engineer, got promoted to Software Engineer L1 within a year and to L2 a year after that.
@@ -66,7 +75,7 @@ Started my career at this company as Junior Software engineer, got promoted to S
 ## Technology Stack
 
 |Set|Skills|
-| --- | ---------------- |
+|:--- |:---------------- |
 | Languages | C#, SQL, JavaScript, Python |
 | Cloud Expertise | Containers, Kubernates, IaaS, PaaS, VM Migrations, VNet, Web Apps, Serverless (Azure Functions/AWS Lambda), Azure Storage/AWS S3, Azure SQL Database and Azure CosmosDB, AWS CloudFront, Queues, Infrastructure as Code |
 | .NET | .NET 5, .NET Core 3.0, WEB API, MVC, .NET Framework 2.0/3.5/4.0/4.5, WCF, ASP.net Web Forms, Web Services, Windows Services, REST API |
