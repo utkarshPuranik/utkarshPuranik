@@ -18,9 +18,10 @@ A seasoned technology and project management professional with over a decade of 
 
 **Principal Software Engineer** | *Jan 2015 - Dec 2019*
 
-- Service Channel 
-- Greenleaf Mobile App
-- Hauler Integration
+- Designed and implemented end-to-end integration of WM Natioanal accounts with servicechannel.com to provide seamless service experience to customers. Customer location managers can request and track service status in near real-time.
+- Designed and developed mobile web application for repair technicians going in the field to repair compactors to check-in, check-out and log summary back to Microsoft Dynamics Nav. The web app can function offline and syncs back on internet availability. 
+- Designed and wrote application interfaces for software vendors of Trash hauling companies. Integrated these interfaces to WM National Account applications to provide work order, service and tonnage updates to Customers. 
+ - Auto Reconciliation 
 - Auto Reconciliation
 - Codegen
 - CPQ
@@ -36,7 +37,6 @@ A seasoned technology and project management professional with over a decade of 
 
 - **National Commodities and Derivatives Exchange** ([NCDEX](https://www.ncdex.com)) | *Feb 2011 – Dec 2013*
   - Designed and implemented integration of NCFE (NCDEX Clearing Front End) system with COMTRACK (Commodity Depository System) for physical settlement of commodities. Used files based instructions for various steps of the process like blocking and release of commodity lots based on reconciliation.
-  - Wrote a security system to manage sessions on a custom application for NCFE which
   - Integrated with organizational CRM to align with Company Master data
   - Led a team of developers to design and develop a web application to manage Collarteral margins for exchange member broking companies.
   - Created and maintained a build deployment process
