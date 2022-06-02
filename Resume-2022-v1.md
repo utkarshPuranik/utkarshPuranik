@@ -7,14 +7,14 @@ A seasoned technology and project management professional with over a decade of 
 
 ## Highlights
 
-- Self-motivated **Software Engineer** / **Architect** / **Manager** with 14 years of experience in system design, development, analysis and implementation using Microsoft Technologies for Enterprise applications.
+- Self-motivated **Software Engineer** / **Architect** / **Manager** with 14 years of experience in system design, development and implementation using Microsoft Technologies for Enterprise applications.
 - Can provide **Technical Leadership, Project Management, Software Design, Development** and **Ensure Delivery** which matches the highest standards in terms of functionality along with quality 
 - A highly analytical person with proven problem-solving skills and a knack for understanding business processes to providing better technical solutions
 - Strong leader with Management experience offering strong experience in **.NET Technologies**.
 - Individual with experience with cloud platforms, Azure and AWS with a focus on cloud-native development
 - Confident, articulate, and professional communication skills, a regular speaker on Digital/IT organization-wide Timeouts
 - Designing end-to-end solutions from application architecture to Azure implementation
-- Extensive Hands-on and expertise in **.NET Core,** **C#, ASP.NET, .NET Core MVC, WCF, Web API, T-SQL/PL-SQL, JavaScript, jQuery, AJAX, WCF, ORM (Dapper, EF, LINQ).**
+- Extensive Hands-on and expertise in **.NET Core**, **C#**, **ASP.NET**, .**NET Core MVC**, **REST**, **T-SQL/PL-SQL**, **JavaScript** and **ORM (Dapper, EF, LINQ)**.
 - Rich experience in project management in all phases of the project life cycle. Manage the day-to-day project activities including risk assessment. Maintain and update project plans
 - Worked on highly distributed enterprise applications, with an essential role in the design of the applications.
 - Experience in handling various backend data sources like **Azure SQL**, **MS SQL Server 2016/2012/2008**,**Oracle** databases using SQL queries and **SQL Jobs**.
@@ -74,12 +74,12 @@ Started my career at this company as a Junior Software engineer and got promoted
 |Set|Skills|
 |:--- |:---------------- |
 | Languages | C#, SQL, JavaScript, Python |
-| Cloud Expertise | Containers, Kubernates, IaaS, PaaS, VM Migrations, VNet, Web Apps, Serverless (Azure Functions/AWS Lambda), Azure Storage/AWS S3, Azure SQL Database and Azure CosmosDB, AWS CloudFront, Queues, Infrastructure as Code |
+| Cloud Expertise | Containers, Kubernetes, IaaS, PaaS, VM Migrations, VNet, Web Apps, Serverless (Azure Functions/AWS Lambda), Azure Storage/AWS S3, Azure SQL Database and Azure CosmosDB, AWS CloudFront, Queues, Infrastructure as Code |
 | .NET | .NET 5, .NET Core 3.0, WEB API, MVC, .NET Framework 2.0/3.5/4.0/4.5, WCF, ASP.net Web Forms, Web Services, Windows Services, REST API |
 | Databases | Azure SQL, MS SQL Server 2016/2012/2008, Azure Cosmos DB, Snowflake |
 | Toos | Git, TFS, SVN, Powershell, Teamcity, Octopus Deploy |
 
-## Skills
+## Core Skills
 ||||
 |-------|----------|---------|
 |Software Architecture|System Design|Software Development Lifecycle|
@@ -91,6 +91,7 @@ Started my career at this company as a Junior Software engineer and got promoted
 
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Developer Associate
+- Certified SAFe® 5 Practitioner
 
 ## Education
 
