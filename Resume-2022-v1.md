@@ -69,7 +69,7 @@ Started my career at this company as a Junior Software engineer and got promoted
 - Experimented with Silverlight as it was first released and wrote a music player which could play local songs or stream online music while maintaining a library.
    
 
-## Technology Stack
+## Technology Skills
 
 |Set|Skills|
 |:--- |:---------------- |
@@ -79,13 +79,14 @@ Started my career at this company as a Junior Software engineer and got promoted
 | Databases | Azure SQL, MS SQL Server 2016/2012/2008, Azure Cosmos DB, Snowflake |
 | Toos | Git, TFS, SVN, Powershell, Teamcity, Octopus Deploy |
 
-## Core Skills
+## Other Skills
 ||||
 |-------|----------|---------|
-|Software Architecture|System Design|Software Development Lifecycle|
-|Project Management|People Management|Agile Methodologies|
-|Technical Architecture|Azure Cloud Architect|Cloud Solution Development|
-|Cross functional team leadership|Proven leadership and organizational abilities|
+|Software Architecture|System Design|
+|Project Management|Proven leadership and organizational abilities|
+|Cross functional team leadership|Agile Methodologies|
+|Technical Architecture|Cloud Solution Development|
+
 
 ## Certifications
 
