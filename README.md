@@ -6,23 +6,22 @@ My goal is to start contributing and create a habit of open source contributions
 
 ## Skills
 
-<p><img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" />
-<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftsqlserver.svg" />
-<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" />
-<img align="left" alt=".NET" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/dot-net.svg" />
-<img align="left" alt="Serverless" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/serverless.svg" />
-<img align="left" alt="Containers" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/docker.svg" />
-<img align="left" alt="Kubernetes" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kubernetes.svg" />
-<img align="left" alt="Azure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/microsoftazure.svg" />
-<img align="left" alt="AWS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" />
-<img align="left" alt="Octopus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/octopusdeploy.svg" />
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/react.svg" />
-<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/powershell.svg" />
+<p><img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" />
+<img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftsqlserver.svg" />
+<img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />
+<img align="left" alt=".NET" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dot-net.svg" />
+<img align="left" alt="Serverless" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/serverless.svg" />
+<img align="left" alt="Containers" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/docker.svg" />
+<img align="left" alt="Kubernetes" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kubernetes.svg" />
+<img align="left" alt="Azure" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftazure.svg" />
+<img align="left" alt="AWS" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonaws.svg" />
+<img align="left" alt="Octopus" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/octopusdeploy.svg" />
+<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/python.svg" />
+<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/react.svg" />
+<img align="left" alt="React" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/powershell.svg" />
+<span style="color:white;">_</span>
 </p>
 
-
-s
 ## Stats
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshPuranik&show_icons=true&theme=default" alt="Utkarsh Puranik's GitHub Stats" /></p>
