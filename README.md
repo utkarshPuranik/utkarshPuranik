@@ -6,13 +6,16 @@ My goal is to start contributing and create a habit of open source contributions
 
 Want to know more, visit my website https://utkarshpuranik.com
 
-LinkedIn <a href="https://www.linkedin.com/in/utkarshpuranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" width="22px" /></a>
+<ul>
 
-LeetCode <a href="https://leetcode.com/utkarshpuranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/leetcode.svg" width="22px" /></a>
+<li>LinkedIn <a href="https://www.linkedin.com/in/utkarshpuranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" width="22px" /></a></li>
 
-HackerRank <a href="https://www.hackerrank.com/utkarsh_puranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/hackerrank.svg" width="22px" /></a>
+<li>LeetCode <a href="https://leetcode.com/utkarshpuranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/leetcode.svg" width="22px" /></a></li>
 
-Scaler <a href="https://www.scaler.com/academy/profile/923fedfa58bf"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="22px" /></a>
+<li>HackerRank <a href="https://www.hackerrank.com/utkarsh_puranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/hackerrank.svg" width="22px" /></a></li>
+
+<li>Scaler <a href="https://www.scaler.com/academy/profile/923fedfa58bf"><img src="data:image/png;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="22px" ></a></li>
+</ul>
 
 ## Skills
 
