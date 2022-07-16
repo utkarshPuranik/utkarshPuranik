@@ -4,9 +4,24 @@ My name is Utkarsh Puranik, I am a software engineer working as Digital Manager 
 
 My goal is to start contributing and create a habit of open source contributions by the end of the year 2022.
 
+Want to know more, visit my website https://utkarshpuranik.com
+
+LinkedIn <a href="https://www.linkedin.com/in/utkarshpuranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/linkedin.svg" width="22px" /></a>
+
+LeetCode <a href="https://leetcode.com/utkarshpuranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/leetcode.svg" width="22px" /></a>
+
+HackerRank <a href="https://www.hackerrank.com/utkarsh_puranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/hackerrank.svg" width="22px" /></a>
+
+Scaler <a href="https://www.scaler.com/academy/profile/923fedfa58bf"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="22px" /></a>
+
 ## Skills
 
-<p><img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" />
+<!-- <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="DarkThemeImage">
+ <img alt="" src="LightThemeImage">
+</picture> -->
+
+<p style="background: white;"><img align="left" alt="C#" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/csharp.svg" />
 <img align="left" alt="SQL" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/microsoftsqlserver.svg" />
 <img align="left" alt="JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/javascript.svg" />
 <img align="left" alt=".NET" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dot-net.svg" />
