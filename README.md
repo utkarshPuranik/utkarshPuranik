@@ -44,10 +44,10 @@ Want to know more, visit my website https://utkarshpuranik.com
 
 <div style="display:table;">
     <div style="display:table-row;">
-        <div style="display:table-cell;">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshPuranik&show_icons=true&theme=default" alt="Utkarsh Puranik's GitHub Stats" /><
+        <div style="display:inline-block;">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshPuranik&show_icons=true&theme=default" alt="Utkarsh Puranik's GitHub Stats" />
         </div>
-        <div style="display:table-cell">
+        <div style="display:inline-block">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshPuranik&theme=default&layout=compact" alt="Utkarsh Puranik's Top Languages" />
         </div>
     </div>
