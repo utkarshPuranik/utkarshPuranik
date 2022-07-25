@@ -42,22 +42,9 @@ Want to know more, visit my website https://utkarshpuranik.com
 
 ## Stats
 
-<div style="display:table;width: 100%;">
-<div style="display:table-row-group;">
-    <div style="display:table-row;">
-        <div style="display:table-cell; padding: 3px;">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshPuranik&show_icons=true&theme=default" alt="Utkarsh Puranik's GitHub Stats" />
-        </div>
-        <div style="display:table-cell; padding: 3px;">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshPuranik&theme=default&layout=compact" alt="Utkarsh Puranik's Top Languages" />
-        </div>
-    </div>
-</div>
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshPuranik&theme=default&layout=compact" alt="Utkarsh Puranik's Top Languages" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshPuranik&show_icons=true&theme=default" alt="Utkarsh Puranik's GitHub Stats" /></p>
 
-
-<!-- <table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshPuranik&show_icons=true&theme=default" alt="Utkarsh Puranik's GitHub Stats" /></td>
-<td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshPuranik&theme=default&layout=compact" alt="Utkarsh Puranik's Top Languages" /></td></tr></table> -->
 <!--
 **utkarshPuranik/utkarshPuranik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
