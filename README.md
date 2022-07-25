@@ -42,8 +42,8 @@ Want to know more, visit my website https://utkarshpuranik.com
 
 ## Stats
 
-<table border="0"><tr><td><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshPuranik&show_icons=true&theme=default" alt="Utkarsh Puranik's GitHub Stats" /></td>
-<td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshPuranik&theme=default&layout=compact" alt="Utkarsh Puranik's Top Languages" /></td></tr></table>
+<table border="0" cellpadding="0" cellspacing="0"><tr><td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshPuranik&show_icons=true&theme=default" alt="Utkarsh Puranik's GitHub Stats" /></td>
+<td valign="top"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshPuranik&theme=default&layout=compact" alt="Utkarsh Puranik's Top Languages" /></td></tr></table>
 <!--
 **utkarshPuranik/utkarshPuranik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
