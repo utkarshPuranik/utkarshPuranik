@@ -42,15 +42,17 @@ Want to know more, visit my website https://utkarshpuranik.com
 
 ## Stats
 
-<div style="display:block;">
-    <div style="display:block;">
-        <div style="display:inline-block;">
+<div style="display:table;width: 100%;">
+<div style="display:table-row-group;">
+    <div style="display:table-row;">
+        <div style="display:table-cell; padding: 3px;">
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshPuranik&show_icons=true&theme=default" alt="Utkarsh Puranik's GitHub Stats" />
         </div>
-        <div style="display:inline-block;">
+        <div style="display:table-cell; padding: 3px;">
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshPuranik&theme=default&layout=compact" alt="Utkarsh Puranik's Top Languages" />
         </div>
     </div>
+</div>
 </div>
 
 
