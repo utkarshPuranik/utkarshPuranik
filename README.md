@@ -14,7 +14,7 @@ Want to know more, visit my website https://utkarshpuranik.com
 
 <li>HackerRank <a href="https://www.hackerrank.com/utkarsh_puranik"><img src="https://cdn.jsdelivr.net/npm/simple-icons@7.4.0/icons/hackerrank.svg" width="22px" /></a></li>
 
-<li>Scaler <a href="https://www.scaler.com/academy/profile/923fedfa58bf"><img src="data:image/png;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="22px" ></a></li>
+<li>Scaler <a href="https://www.scaler.com/academy/profile/923fedfa58bf"><img src="https://scontent.fbom26-1.fna.fbcdn.net/v/t39.30808-1/273802261_690706225705726_8585155307749683097_n.jpg?stp=dst-jpg_p148x148&_nc_cat=1&ccb=1-7&_nc_sid=1eb0c7&_nc_ohc=75acGLEmjsgAX97e1D2&_nc_ht=scontent.fbom26-1.fna&oh=00_AT95m4b-L6oIIQs0BhbdNQxhlXORPfOvJr2NXpRuwviI2A&oe=633DD05D" width="22px" ></a></li>
 </ul>
 
 ## Skills
