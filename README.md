@@ -1,8 +1,8 @@
 # Hello World 👋
 
-My name is Utkarsh Puranik, I am a software engineer working as Digital Manager in WM. I have been working on distributed software application for last 14 years none of it open source.
+My name is Utkarsh Puranik, I am a software engineer working as Principal Software Engineer for Sage. I have been working on distributed software application for last 16 years none of it open source, yet.
 
-My goal is to start contributing and create a habit of open source contributions by the end of the year 2022.
+My goal is to start contributing and create a habit of open source contributions by the end of the year 2024.
 
 Want to know more, visit my website https://utkarshpuranik.com
 
